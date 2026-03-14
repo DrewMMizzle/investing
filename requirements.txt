@@ -9,3 +9,14 @@ docxcompose>=1.4.0
 matplotlib>=3.8.0
 fredapi>=0.5.0
 markdown>=3.5.0
+beautifulsoup4
+docxcompose
+docxtpl
+fredapi
+html2text
+markdown
+matplotlib
+openpyxl
+python-docx
+requests
+yfinance
